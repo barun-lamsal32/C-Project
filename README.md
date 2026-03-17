@@ -1,11 +1,11 @@
-🧠 Concepts Used
+🧠 Concepts Used :
 
-Structures (struct)
+1) Structures (struct)
 
-File handling (fopen, fscanf, fprintf)
+2) File handling (fopen, fscanf, fprintf)
 
-Arrays and strings
+3) Arrays and strings
 
-Functions and modular programming
+4) Functions 
 
-Conditional statements and loops
+5) Conditional statements and loops
