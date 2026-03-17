@@ -10,7 +10,7 @@
 
 5) Conditional statements and loops
 
-✨ Features
+✨ Features :
 
 🎮 Play quiz with multiple-choice questions (A/B/C/D)
 
